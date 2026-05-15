@@ -1,0 +1,5 @@
+{
+  "name": "AI 패션 모델 생성기",
+  "description": "의류 이미지를 업로드하여 20대 한국인 남성 모델이 착용한 다양한 포즈의 전문적인 상품 상세 컷을 생성합니다.",
+  "requestFramePermissions": []
+}
